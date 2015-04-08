@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'RMagick'
+require 'rmagick'
 require 'rvg/rvg'
 require 'redcarpet'
 
